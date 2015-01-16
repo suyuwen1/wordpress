@@ -1,0 +1,32 @@
+/*
+Theme Name: suyuwen
+Theme URI: http://www.ihref.com
+Author: suyuwen
+Author URI: http://www.ihref.com
+Description: suyuwen Design.
+Version: 1.0
+Tags: suyuwen
+*/
+*{
+	border: 0;
+	font-family: inherit;
+	font-size: 14px;
+	font-style: inherit;
+	font-weight: inherit;
+	margin: 0;
+	outline: 0;
+	padding: 0;
+	vertical-align: baseline;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+html{
+	overflow-y: scroll;
+}
+*:before,
+*:after {
+	-webkit-box-sizing: inherit;
+	-moz-box-sizing: inherit;
+	box-sizing: inherit;
+}
